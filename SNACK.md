@@ -20,7 +20,7 @@
 6. Wait for the bundle to build. When the green dot appears in the preview panel, the app is running.
 7. **Save the snack** with a name like `pokedex-challenge-master`. Get the URL — this is your master copy.
 
-## Sharing with a candidate
+## Sharing with a candidate 
 
 Send the URL. When the candidate clicks it, Snack loads a read-only view — they hit **"Save as a copy"** in the top-right, which forks it into their own workspace. Their edits don't affect your master copy.
 
