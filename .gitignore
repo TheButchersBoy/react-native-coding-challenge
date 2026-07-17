@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+.expo/
+.vscode/
+.idea/
+
+# Interviewer answer key. Do not share.
+.interviewer/
