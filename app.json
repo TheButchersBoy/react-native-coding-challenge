@@ -3,7 +3,7 @@
     "name": "Pokedex Challenge",
     "slug": "pokedex-challenge",
     "version": "1.0.0",
-    "sdkVersion": "52.0.0",
+    "sdkVersion": "54.0.0",
     "platforms": ["ios", "android", "web"],
     "orientation": "portrait"
   }
